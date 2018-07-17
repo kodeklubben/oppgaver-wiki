@@ -1,6 +1,6 @@
 
 <a href="https://xkcd.com/1513/">
-<img border="0" alt="Tegneserie fra XKCD om konvensjoner og koding" src="https://github.com/Oisov/oppgave-wiki/blob/master/images/konvensjoner/xkcd.png">
+<img border="0" alt="Tegneserie fra XKCD om konvensjoner og koding" src="https://github.com/kodeklubben/oppgaver-wiki/blob/master/images/konvensjoner/xkcd.png">
 </a>
 
 

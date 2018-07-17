@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://atom.io/">
-<img border="0" alt="W3Schools" src="https://github.com/Oisov/oppgave-wiki/blob/master/images/atom/Atom_icon.svg" width="480">
+<img border="0" alt="W3Schools" src="https://github.com/kodeklubben/oppgaver-wiki/blob/master/images/atom/Atom_icon.svg" width="480">
 </a>
 </p>
 

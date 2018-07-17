@@ -1,6 +1,6 @@
 <p align="center">
 <a href="http://spacemacs.org/">
-<img border="0" alt="W3Schools" src="https://github.com/Oisov/oppgave-wiki/blob/master/images/spacemacs/logo.svg" width="300" height="300">
+<img border="0" alt="W3Schools" src="https://github.com/kodeklubben/oppgaver-wiki/blob/master/images/spacemacs/logo.svg" width="300" height="300">
 </a>
 </p>
 
