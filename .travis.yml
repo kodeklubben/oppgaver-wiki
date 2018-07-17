@@ -1,0 +1,15 @@
+script:
+- |
+  git config user.name "Oisov"
+  git config user.email "Oistein.Sovik.92@gmail.com"
+  git remote remove origin
+  git remote add origin https://$GITHUB_API_KEY@github.com/kodeklubben/oppgaver-wiki.git > /dev/null 2>&1
+  git remote add upstream https://$GITHUB_API_KEY@github.com/kodeklubben/oppgaver.wiki.git > /dev/null 2>&1
+  git fetch origin
+  git fetch upstream
+  git merge upstream/master --no-edit
+  git push origin HEAD:master > /dev/null 2>&1
+  git push upstream HEAD:master > /dev/null 2>&1
+env:
+  matrix:
+    secure: Su6wiAYY/khEcpG5SB/BbvUiDjERS2CkchFWz4ptcKEYMsSo4XhAH5ENgIQvRCKFWAFJzGnu75g8j1hy45LjJzRMOw4fYjthNeLRBqx/8Jf/goPBeYJhyIIb+MTWdyftnepPjUMq6FOPL2Pnjn8a3QCLjgw5qkgnHyjBVwr3bKYlGcqd+X6ElRYej1f+6AJ4oQhGwWfM1mBUL78vYRpCz3fpLAYLSbpuUKlFm31c92MXqfOzDBUFmsMoNWOa/uXlOzkTi+1HNwCG4NPWfhKgZ6+/29S3AWLGqL5M5Xu/49son0C3pilfs8dpfCOyyfO+jOsZqbIuI3eJrnY8c+6DxCU82yVEq34CdPFTnAYQlQpAY8qtskI0YnqeSIcNM0T7a7HG+qgQwCjIKeRoNW7GGTHnID97xDRVogRwhbMKVcMv1KG3NQjA6GnRu1qCVBPX2b2xfRkqnj0b1bzW2X8MVjquzb8y2ExKOUVZZRleAI1UZTEeaUO9QS+mkE8feiNfHnBFq8Lj2S37mlFyCh0H/38udkFz1hnUciaUfAbQljGQPSrneiYVRnpt5W/QKZG/A1JSFDUArEJt2AeAuZDmmnSnHhtPfnOPOoGKM7PW/s7nOXo9e84bOpSj0+dl5yz3q68L4bzjfwitgeoxtRQTvsyZQFhct01FgU10leaZU6M=
