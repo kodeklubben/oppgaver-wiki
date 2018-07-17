@@ -1,6 +1,6 @@
 
 <p align="center">
-<img border="0" alt="W3Schools" src="https://github.com/Oisov/oppgave-wiki/blob/master/images/kodeklubb-byggeren/node-yarn-logo.png" height="150t">
+<img border="0" alt="W3Schools" src="https://github.com/kodeklubben/oppgaver-wiki/blob/master/images/kodeklubb-byggeren/node-yarn-logo.png" height="150t">
 </p>
 
 
