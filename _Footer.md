@@ -1,3 +1,3 @@
-### Ønsker du å bidra til denne wikien??
+### Want to contribute to this Wiki?
 
-[Fork it and send a pull request.](https://github.com/kodeklubben/oppgaver-wiki)
+[Fork it and send a pull request.](https://github.com/Oisov/oppgave-wiki)
