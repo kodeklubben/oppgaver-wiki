@@ -44,6 +44,29 @@ Hvis du ønsker å dele oppgaven med en annen lisens enn det som er standard (CC
 BY-SA 4.0), så må du skrive `lisens: 'lisenstype'`, der _lisenstype_ er den
 lisensen du ønsker å dele med, i YAML-headeren.
 
+### Merking av oppgaver
+
+I tillegg til YAML-headeren skal hver oppgave ha en fil kalt `lesson.yml` i
+mappen sin. Den kan se slik ut:
+
+```
+level: 3
+tags:
+    topic: [block_based, game, animation]
+    subject: [programming]
+    grade: [primary, secondary, junior]
+```
+
+Tallet etter `level` angir nivået som du også setter i YAML-headeren (se
+[Nivå](###Nivå)). De andre taggene angir hvilke emner (`topic`) oppgaven
+omhandler, hvilke fag (`subject`) som har kompetansemål som kan dekkes av
+oppgaven og hvilke årstrinn (`grade`) vi anbefaler at oppgaven kan brukes på.
+Disse brukes alle i filteret i oppgavesamlingen. En fullstendig liste over
+tagger som støttes finner du i filen
+[keys.yml](https://github.com/kodeklubben/oppgaver/blob/master/filtertags/keys.yml).
+Hvis du mener at oppgaven trenger en tag som ikke står i listen kan du gi
+beskjed ved å opprette en [issue](//github.com/kodeklubben/oppgaver/issues).
+
 ## Oppgaveteksten
 
 Det er vanlig med en introduksjon som forklarer hva formålet med oppgaven er. I
