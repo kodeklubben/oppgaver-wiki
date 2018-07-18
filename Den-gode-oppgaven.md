@@ -3,8 +3,8 @@
 # Den gode oppgaven
 
 Når du skriver en oppgave som skal legges ut på oppgavesidene må du følge denne
-malen. Slik blir utformingen på oppgavene mest mulig lik. 
-Leser du [[stilguiden for kode og tekst|Stilguide-for-kode-og-tekst]] 
+malen. Slik blir utformingen på oppgavene mest mulig lik.
+Leser du [[stilguiden for kode og tekst|Stilguide-for-kode-og-tekst]]
 ser du hvordan vi ønsker at markdown-koden skal skrives.
 
 Rammen for oppgaven er en YAML-header, altså informasjon _om_ oppgaven,
@@ -138,3 +138,19 @@ møter motstand i oppgaven, så kan du skrive hvordan du løste det.
 Dessuten ønsker vi å informere om eventuelle kompetansemål i læreplanene som kan
 oppfylles ved hjelp av hver enkelt oppgave. Det skrives i lærerveiledningen. Se
 [[Hvordan skrive en lærerveiledning]] for mer informasjon.
+
+## Filnavn
+
+Når du skriver en ny oppgave lagrer du den i en ny mappe under riktig
+programmeringsspråk. For eksempel er Scratch-oppgaven "Astrokatt" lagret i
+mappen
+
+```
+src/scratch/astrokatt
+```
+
+med filnavnet `astrokatt.md`. Filendingen `.md` står for markdown. Dette er
+bokmålsversjonen av oppgaven. Du kan også se at oppgaven finnes på nynorsk i
+filen `astrokatt_nn.md`, altså med ISO-språkkoden for nynorsk i filnavnet. På
+samme måte kan vi altså legge til flere språkversjoner av den samme oppgaven,
+alle lagret på samme sted, med språkkoden inkludert i filnavnet.
