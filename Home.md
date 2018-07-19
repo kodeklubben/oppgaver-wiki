@@ -39,3 +39,15 @@ du nemlig tilgang på lærerveiledningene vi har skrevet. Hvis du lurer på hvor
 vi har tenkt for å lage disse kan du lese om det i
 [[Hvordan-bruke-en-lærerveiledning]]. Du finner også en veiledning for hvordan
 du kan skrive en ny lærerveiledning.
+
+## Hjelp
+
+Dersom du trenger hjelp eller har noe du ønsker å diskutere angående 
+oppgavesamlingen eller på LKKs GitHub kan du melde et 
+[issue](https://github.com/kodeklubben/oppgaver/issues). For å 
+kunne gjøre det må du ha en GitHib-konto. Alternativt kan du melde fra 
+på [forumet](https://forum.kidsakoder.no/c/oppgaver). Der kan du få 
+hjelp med det meste!
+
+Vi oppfordrer også til at du deltar aktivt i forumet, og deltar i diskusjoner om
+hvordan oppgavesamlingen fungerer og kan brukes i undervisning.
