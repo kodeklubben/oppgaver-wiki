@@ -239,7 +239,7 @@ ovenfor, må vi først passe på at Kodeklubbens repo ligger inne som `remote` m
 
 Dersom det ikke allerede ligger inne kan vi legge det til via
 
-    remote add upstream git@github.com:kodeklubben/oppgaver.git
+    git remote add upstream git@github.com:kodeklubben/oppgaver.git
 
 **Merk:** Det er i utgangspunktet ingenting spesielt med navnet *upstream*, og
 vi kunne for eksempel ha brukt *kodeklubben* eller noe lignende i stedet.
