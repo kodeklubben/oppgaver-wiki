@@ -1,4 +1,4 @@
-```
+````
 ---
 title: TITTEL
 level: NIVÅ
@@ -34,7 +34,8 @@ Her beskriver du hva som er målet med dette steget.
 
 ## Test prosjektet {.flag}
 
-__Klikk på det grønne flagget.__ / __Start prosjektet for å teste koden så langt.__
+__Klikk på det grønne flagget.__ / __Start prosjektet for å teste koden så
+langt.__
 
 - [ ] Du skal se at...
 
@@ -48,7 +49,8 @@ __Klikk på det grønne flagget.__ / __Start prosjektet for å teste koden så l
 
 ## Test prosjektet {.flag}
 
-__Klikk på det grønne flagget.__ / __Start prosjektet for å teste koden så langt.__
+__Klikk på det grønne flagget.__ / __Start prosjektet for å teste koden så
+langt.__
 
 - [ ]
 
@@ -69,7 +71,8 @@ I dette steget skal vi...
 
 ## Test prosjektet {.flag}
 
-__Klikk på det grønne flagget.__ / __Start prosjektet for å teste koden så langt.__
+__Klikk på det grønne flagget.__ / __Start prosjektet for å teste koden så
+langt.__
 
 - [ ] Du skal se at...
 
@@ -92,4 +95,4 @@ Vi har laget...
 Husk å lagre spillet/programmet ditt. Når du er ferdig kan du klikke på `Legg
 ut`-knappen. Da vil det bli lagt ut på Scratch-hjemmesiden din slik at du enkelt
 kan dele det med familien og vennene dine.
-```
+````
