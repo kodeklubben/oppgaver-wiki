@@ -40,10 +40,6 @@ language: nb
 ---
 ```
 
-Hvis du ønsker å dele oppgaven med en annen lisens enn det som er standard (CC
-BY-SA 4.0), så må du skrive `lisens: 'lisenstype'`, der _lisenstype_ er den
-lisensen du ønsker å dele med, i YAML-headeren.
-
 ### Merking av oppgaver
 
 I tillegg til YAML-headeren skal hver oppgave ha en fil kalt `lesson.yml` i
@@ -51,6 +47,8 @@ mappen sin. Den kan se slik ut:
 
 ```
 level: 3
+license: '[Code Club World Limited Terms of
+Service](https://github.com/CodeClub/scratch-curriculum/blob/master/LICENSE.md)'
 tags:
     topic: [block_based, game, animation]
     subject: [programming]
@@ -58,7 +56,17 @@ tags:
 ```
 
 Tallet etter `level` angir nivået som du også setter i YAML-headeren (se
-[Nivå](###Nivå)). De andre taggene angir hvilke emner (`topic`) oppgaven
+[Nivå](###Nivå)).
+
+Etter `license` står lisensen på oppgaven. Denne er valgfri å legge til. Som
+standard deles oppgavene med [CC BY-SA
+4.0](https://creativecommons.org/licenses/by-sa/4.0/). Men hvis du ønsker å dele
+oppgaven din med en annen lisens må du skrive `license: 'lisenstype'`, der
+_lisenstype_ er den lisensen du ønsker å dele med. I eksempelet over ser du en
+oppgave som er oversatt fra en annen nettside, da følger vi lisensen de har
+satt.
+
+De andre taggene angir hvilke emner (`topic`) oppgaven
 omhandler, hvilke fag (`subject`) som har kompetansemål som kan dekkes av
 oppgaven og hvilke årstrinn (`grade`) vi anbefaler at oppgaven kan brukes på.
 Disse brukes alle i filteret i oppgavesamlingen. En fullstendig liste over
