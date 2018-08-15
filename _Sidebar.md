@@ -12,6 +12,8 @@
   * [Den gode oppgaven](./Den-gode-oppgaven)
   * [Kodemal for oppgaver](./Kodemal-oppgave)
 - Lærerveiledninger
-   * [Hvordan bruke](./Hvordan-bruke-en-l%C3%A6rerveiledning)
-   * [Hvordan skrive](./Hvordan-skrive-en-l%C3%A6rerveiledning)
-   * [Kodemal for veiledninger](./Kodemal-l%C3%A6rerveiledning)
+  * [Hvordan bruke](./Hvordan-bruke-en-l%C3%A6rerveiledning)
+  * [Hvordan skrive](./Hvordan-skrive-en-l%C3%A6rerveiledning)
+  * [Kodemal for veiledninger](./Kodemal-l%C3%A6rerveiledning)
+- Undervisning
+  * [Undervise og vurdere](./Hvordan-undervise-i-og-vurdere-programmering)
