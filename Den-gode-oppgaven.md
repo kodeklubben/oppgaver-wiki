@@ -22,21 +22,21 @@ følgende være med:
 - [ ] Tittel på oppgavene.
 
 - [ ] Navn på den som har skrevet oppgaven, eventuelt hvem som skrev den
-  originalt.
-
-- [ ] Anbefalt nivå (introduksjon-begynner-erfaren-ekspert).
+  originalt. Hvis oppgaven er oversatt må du også skrive hvem som har oversatt
+  oppgaven.
 
 - [ ] Språk
   ([ISO 639-1](https://no.wikipedia.org/wiki/Liste_over_ISO_639-1-koder)).
 
-Et eksempel på YAML-header blir da
+Et eksempel på YAML-header (hentet fra Scratch-oppgaven "Astrokatt" på nynorsk)
+blir da
 
 ```
 ---
 title: Astrokatt
-level: 1
-author: 'Geir Arne Hjelle'
-language: nb
+author: Geir Arne Hjelle
+translator: Stein Olav Romslo
+language: nn
 ---
 ```
 
@@ -55,8 +55,8 @@ tags:
     grade: [primary, secondary, junior]
 ```
 
-Tallet etter `level` angir nivået som du også setter i YAML-headeren (se
-[Nivå](###Nivå)).
+Tallet etter `level` angir anbefalt nivå
+(introduksjon-begynner-erfaren-ekspert). Se også [Nivå](###Nivå).
 
 Etter `license` står lisensen på oppgaven. Denne er valgfri å legge til. Som
 standard deles oppgavene med [CC BY-SA
