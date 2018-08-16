@@ -106,14 +106,6 @@ dokumentere arbeidsprosessen sin. Andre elever kan lese koden og prøve å forst
 hva den gjør. Oppmuntre elevene til å snakke sammen, stille spørsmål og hjelpe
 hverandre!
 
-#### GitHub
-
-En viktig arena for mange som driver med programmering er
-[GitHub](https://github.com/). Hvordan du bruker denne plattformen kan du lese
-mer om i veiledningen [[Komme-i-gang-med-Git]]. Det finnes funksjoner som lar
-deg opprette områder elevene kan bruke for å levere inn eget arbeid som du så
-kan vurdere.
-
 ### Tips og triks
 
 Bruk tid i starten av hver økt på å gi tydelige instruksjoner. Dette er spesielt
