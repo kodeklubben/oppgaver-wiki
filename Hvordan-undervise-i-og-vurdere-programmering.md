@@ -133,6 +133,16 @@ forståelsen på en helt annen måte enn om du gir dem løsningen med en gang. D
 kan også hende at de finner en annen like god eller bedre løsning, eller i alle
 fall noe som fungerer, som de så kan gå tilbake og justere på senere.
 
+Kodeforståelse er en viktig del av programmeringsfaget. Målet er at elevene skal
+bli mer eller mindre selvstendige programmerere, da må de kunne lese og forstå
+kode. Det er lett for elevene å spørre "hvorfor fungerer det ikke?" og vente på
+svar fra deg. Prøv å få elevene til å lese sin egen kode, sammenligne med
+eksempelkode som fungerer og finne feilen selv. Det er ikke mulig å programmere
+helt feilfritt, så en selvstendig programmerer må forstå og lære av sine egne
+(og andres) feil. Kodeforståelse er spesielt viktig når elevene skal programmere
+noe der det ikke finnes en fasit, men de må selv ta valg om hvordan koden skal
+utformes for best mulig resultat.
+
 Du kan gjerne bryte opp timen underveis for å diskutere problemstillinger flere
 elever har møtt. Kanskje noen hadde en elegant løsning de kan vise for hele
 klassen? Pass på å trekke fram løsninger fra flere elever og grupper, ikke
@@ -181,3 +191,26 @@ __Er koden god?__
 
 3. Eleven behersker innebygde funksjoner og gjør valg av kode men hensyn på
   kjøretid.
+
+__Feilsøking__
+
+1. Eleven kan finne feil i koden ved hjelp av feilmeldinger.
+
+2. Eleven kan finne og rette opp feil i koden ved hjelp av feilmeldinger.
+
+3. Eleven kan lese og forstå koden, samt finne og rette opp feil.
+
+## Flere ressurser
+
+Dersom du skal undervise programmering over en lengre periode, og spesielt om du
+skal undervise i valgfag programmering, anbefaler vi å lese [Udir sin
+veiledning](https://www.udir.no/laring-og-trivsel/lareplanverket/veiledning-lp/valgfag-programmering/)
+til valgfag programmering.
+
+I 2014 skrev Espen Clausen [et
+blogginnlegg](https://espenec.wordpress.com/2014/10/07/hvorfor-skal-vi-bruke-programmering-i-skolen/)
+om programmering i skolen, der han skriver hvorfor vi skal drive med
+programmering i skolen. Videre gir han noen forslag til hvordan det kan
+gjennomføres enkle kodeprosjekter i grunnskolen. Andre innlegg på bloggen hans
+tar for seg programmering i skolen, både andre programmeringsspråk og ulike
+erfaringer.
