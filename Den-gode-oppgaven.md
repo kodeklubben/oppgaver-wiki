@@ -22,18 +22,21 @@ følgende være med:
 - [ ] Tittel på oppgavene.
 
 - [ ] Navn på den som har skrevet oppgaven, eventuelt hvem som skrev den
-  originalt.
+  originalt. Hvis oppgaven er oversatt må du også skrive hvem som har oversatt
+  oppgaven.
 
 - [ ] Språk
   ([ISO 639-1](https://no.wikipedia.org/wiki/Liste_over_ISO_639-1-koder)).
 
-Et eksempel på YAML-header blir da
+Et eksempel på YAML-header (hentet fra Scratch-oppgaven "Astrokatt" på nynorsk)
+blir da
 
 ```
 ---
 title: Astrokatt
-author: 'Geir Arne Hjelle'
-language: nb
+author: Geir Arne Hjelle
+translator: Stein Olav Romslo
+language: nn
 ---
 ```
 
