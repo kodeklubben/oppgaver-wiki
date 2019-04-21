@@ -28,7 +28,8 @@ kjøre
 
     nvm install
 
-i kommandolinjen.
+i kommandolinjen. Opplever du problemer med oppstartstid når nvm er aktivert,
+kan [fnm](https://github.com/Schniz/fnm) være et alternativ.
 
 ### Installere yarn
 
