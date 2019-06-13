@@ -39,7 +39,7 @@ burde det gå fint.
 ### Komme i gang med LKK-byggeren
 
 Når `node` and `yarn` er installert, bytt til mappen hvor din _fork_ av oppgave
-repoet ligger og skriv
+repoet ligger (ikke _i_ mappen med din fork, men 'ved siden av') og skriv 
 
 ```
 git clone https://github.com/kodeklubben/codeclub-viewer.git
