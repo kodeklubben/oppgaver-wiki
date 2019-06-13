@@ -15,8 +15,8 @@ egendefinerte titler.
 
 ## Komme i gang
 
-Først må du passe på at du har [node](https://nodejs.org/en/) og
-[yarn](https://yarnpkg.com/en/) installert.
+Først må du passe på at du har **node** og
+**yarn** installert.
 
 ### Installere node
 
@@ -67,3 +67,7 @@ legges ut på nettet) kan du kjøre
 yarn build
 yarn serve
 ```
+
+## Mer informasjon
+* [node](https://nodejs.org/en/)
+* [yarn](https://yarnpkg.com/en/)
