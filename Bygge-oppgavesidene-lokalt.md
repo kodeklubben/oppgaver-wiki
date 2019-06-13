@@ -52,9 +52,14 @@ i kommandolinjen. Deretter kan du åpne nettsiden http://localhost:8080.
 
 [![Bygging av kodeklubbens nettside fra terminalen](https://github.com/Oisov/oppgave/wiki/images/kodeklubb-byggeren/yarn-start.png "Bygging av kodeklubbens nettside fra terminalen")](https://github.com/Oisov/oppgave/wiki/images/kodeklubb-byggeren/yarn-start.png)
 
-MERK: Dersom du nylig endret versjonen av `node`, og du får en feilmelding under
-`yarn start` (eller `yarn build`), prøv å slette `node_modules`-mappen og kjør
-`yarn` igjen for å installere det på nytt.
+MERK: 
+
+* Dersom du nylig endret versjonen av `node`, og du får en feilmelding under
+  `yarn start` (eller `yarn build`), prøv å slette `node_modules`-mappen og kjør
+  `yarn` igjen for å installere det på nytt.
+* Det er viktig at mappen med din fork av oppgave repoet faktisk heter `oppgaver`, 
+  ellers så får du en feilmelding `no such file or directory, open ` og så en sti til `filtertags/keys.yml`.
+
 
 
 ## Bygging og tjener
