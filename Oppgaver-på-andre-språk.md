@@ -28,7 +28,7 @@ filtrere oppgaver på riktig språk.
 ## CodeClub-viewer
 
 Brukergrensesnittet må også oversettes, slik at brukeren får bruke nettsiden på
-riktig språk. Du må begynne med å lage en _fork_ av [CodeClub-viewer]() på samme
+riktig språk. Du må begynne med å lage en _fork_ av [CodeClub-viewer](https://github.com/kodeklubben/codeclub-viewer/) på samme
 måte som du laget for [[oppgave-repoet|Komme-i-gang-med-Git]].
 
 Så må du oversette [filen med
