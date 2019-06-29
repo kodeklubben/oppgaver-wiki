@@ -19,3 +19,4 @@
   * [Undervise og vurdere](./Hvordan-undervise-i-og-vurdere-programmering)
 - Avansert
   * [Legge til flere språk](./Oppgaver-p%C3%A5-andre-spr%C3%A5k)
+  * [Add more languages](./New-languages)
