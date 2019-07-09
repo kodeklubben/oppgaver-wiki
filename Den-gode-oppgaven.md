@@ -7,6 +7,10 @@ malen. Slik blir utformingen på oppgavene mest mulig lik.
 Leser du [[stilguiden for kode og tekst|Stilguide-for-kode-og-tekst]]
 ser du hvordan vi ønsker at markdown-koden skal skrives.
 
+Trenger du noen gode ideer til oppgaven din? Sjekk ut vår
+[Dropbox-mappe](https://www.dropbox.com/sh/jp2tc6qajbu0brw/AABDav0Tnwkkf1xWlPaa5pUDa?dl=0)
+med forslag!
+
 Rammen for oppgaven er en YAML-header, altså informasjon _om_ oppgaven,
 oppgaveteksten med figurer, og en lærerveiledning som forklarer _hvordan_ en
 klasse kan jobbe med oppgaven.
