@@ -81,7 +81,7 @@ request__ i Github, se veiledningen [[Komme-i-gang-med-Git]]. Da kan andre
 kommentere og stille spørsmål, både til selve oppgaven og formateringen, slik at
 den kan bli forbedret eller lagt ut offentlig. Vanlige ting som sjekkes er
 formatering og syntax. Før du laster opp kan det være lurt å se over siste
-avsnitt [Stilguide-for-kode-og-tekst]], slik at du følger de vanlige 
+avsnitt [[Stilguide-for-kode-og-tekst]], slik at du følger de vanlige 
 konvensjonene med hensyn på linjebredde of formatering.
 
 Når en oppgave er renskrevet i markdown-formatet og blir lagt ut på nettsiden,
