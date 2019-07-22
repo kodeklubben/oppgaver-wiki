@@ -17,7 +17,8 @@ t)
 
 ## Komme i gang
 
-Først må du passe på at du har **node** og **yarn** installert. Det er ulike måter å gjøre dette på avhengig av om du bruker Mac, Linux eller Windows.
+Først må du passe på at du har **node** og **yarn** installert. Det er ulike
+måter å gjøre dette på avhengig av om du bruker Mac, Linux eller Windows.
 
 ### Installere node på Windows
 
