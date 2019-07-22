@@ -23,7 +23,7 @@ måter å gjøre dette på avhengig av om du bruker Mac, Linux eller Windows.
 ### Installere node på Windows
 
 _Merk:_ Dagens versjon av **node** er `9.8.0`, og det er viktig at du ikke har
-en nyere versjon av **node** installert på din maskin.
+en annen versjon av **node** installert på din maskin.
 
 _En måte_ å komme i gang på er å først installere
 [nvm-windows](https://github.com/coreybutler/nvm-windows/releases). Last ned
@@ -33,7 +33,7 @@ versjonen av **node** spesifisert i filen
 [`.nvmrc`](https://github.com/kodeklubben/codeclub-viewer/blob/master/.nvmrc)
 ved å kjøre
 
-    nvm install
+    nvm install 9.8.0
 
 i kommandolinjen.
 
@@ -54,7 +54,7 @@ i kommandolinjen. Deretter kan du installere den anbefalte versjonen av
 [`.nvmrc`](https://github.com/kodeklubben/codeclub-viewer/blob/master/.nvmrc)
 ved å kjøre
 
-    nvm install
+    nvm install 9.8.0
 
 i kommandolinjen.
 
