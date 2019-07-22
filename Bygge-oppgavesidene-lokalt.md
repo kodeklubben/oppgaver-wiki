@@ -22,8 +22,8 @@ måter å gjøre dette på avhengig av om du bruker Mac, Linux eller Windows.
 
 ### Installere node på Windows
 
-_Merk:_ Dagens versjon av **node** er `9.8.0`, og det er viktig at du ikke har
-en annen versjon av **node** installert på din maskin.
+_Merk:_ Versjonen vi bruker av **node** er `9.8.0`, men dagens versjon er
+nyere enn dette. Det er viktig at du bruker versjon `9.8.0` av **node** for å kunne bygge oppgavesidene lokalt på datamaskinen din.
 
 _En måte_ å komme i gang på er å først installere
 [nvm-windows](https://github.com/coreybutler/nvm-windows/releases). Last ned
