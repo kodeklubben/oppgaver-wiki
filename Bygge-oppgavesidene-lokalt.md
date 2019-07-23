@@ -10,10 +10,8 @@ når en lager lister, skriver kodeblokker, eller bruker noen av Lær kidsa kodin
 egendefinerte titler.
 
 [![Viser localhost, teksteditor, og Lær kidsa koding sin
-nettside](https://github.com/Oisov/oppgave/wiki/images/kodeklubb-byggeren/localh
-ost.png "Viser localhost, teksteditor, og Lær kidsa koding sin
-nettside")](https://github.com/Oisov/oppgave/wiki/Bygge-oppgavesidene-lokalt/edi
-t)
+nettside](https://github.com/Oisov/oppgave/wiki/images/kodeklubb-byggeren/localhost.png "Viser localhost, teksteditor, og Lær kidsa koding sin
+nettside")](https://github.com/Oisov/oppgave/wiki/Bygge-oppgavesidene-lokalt/edit)
 
 ## Komme i gang
 
