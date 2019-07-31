@@ -33,8 +33,9 @@ ved å kjøre
 i kommandolinjen.
 
 _En annen måte_ er å installere **node** manuelt fra deres egen nettside. Gå
-til [nodejs.org](https://nodejs.org/en). Du installerer **node** ved å trykke
-på filen når den er ferdig nedlastet på din maskin.
+til [nodejs.org](https://nodejs.org/download/release/v10.16.0) og last ned filen
+`node-v10.16.0-x64.msi`. Du installerer **node** ved å trykke på filen når den 
+er ferdig nedlastet på din maskin.
 
 ### Installere node på Mac eller Linux
 
@@ -53,8 +54,9 @@ ved å kjøre
 i kommandolinjen.
 
 _En annen måte_ er å installere **node** manuelt fra deres egen nettside. Gå
-til [nodejs.org](https://nodejs.org/en). Du installerer **node** ved å trykke
-på filen når den er ferdig nedlastet på din maskin.
+til [nodejs.org](https://nodejs.org/download/release/v10.16.0) og last ned filen
+`node-v10.16.0.pkg`. Du installerer **node** ved å trykke på filen når den
+er ferdig nedlastet på din maskin.
 
 ### Installere yarn på Windows
 
