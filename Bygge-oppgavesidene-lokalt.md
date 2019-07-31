@@ -20,10 +20,6 @@ måter å gjøre dette på avhengig av om du bruker Mac, Linux eller Windows.
 
 ### Installere node på Windows
 
-_Merk:_ Versjonen vi bruker av **node** er `10.16.0`, men dagens versjon er
-nyere enn dette. Det er viktig at du bruker versjon `10.16.0` av **node** for å
-kunne bygge oppgavesidene lokalt på datamaskinen din.
-
 _En måte_ å komme i gang på er å først installere
 [nvm-windows](https://github.com/coreybutler/nvm-windows/releases). Last ned
 filen `nvm-setup.zip`. Du installerer **nvm** ved å trykke på den når den er
