@@ -20,8 +20,9 @@ måter å gjøre dette på avhengig av om du bruker Mac, Linux eller Windows.
 
 ### Installere node på Windows
 
-_Merk:_ Versjonen vi bruker av **node** er `9.8.0`, men dagens versjon er
-nyere enn dette. Det er viktig at du bruker versjon `9.8.0` av **node** for å kunne bygge oppgavesidene lokalt på datamaskinen din.
+_Merk:_ Versjonen vi bruker av **node** er `10.16.0`, men dagens versjon er
+nyere enn dette. Det er viktig at du bruker versjon `10.16.0` av **node** for å
+kunne bygge oppgavesidene lokalt på datamaskinen din.
 
 _En måte_ å komme i gang på er å først installere
 [nvm-windows](https://github.com/coreybutler/nvm-windows/releases). Last ned
@@ -31,14 +32,13 @@ versjonen av **node** spesifisert i filen
 [`.nvmrc`](https://github.com/kodeklubben/codeclub-viewer/blob/master/.nvmrc)
 ved å kjøre
 
-    nvm install 9.8.0
+    nvm install 10.16.0
 
 i kommandolinjen.
 
 _En annen måte_ er å installere **node** manuelt fra deres egen nettside. Gå
-til [nodejs.org](https://nodejs.org/download/release/v9.8.0) og last ned filen
-`node-v9.8.0-x64.msi`. Du installerer **node** ved å trykke på filen når den er
-ferdig nedlastet på din maskin.
+til [nodejs.org](hhttps://nodejs.org/en). Du installerer **node** ved å trykke
+på filen når den er ferdig nedlastet på din maskin.
 
 ### Installere node på Mac eller Linux
 
@@ -52,14 +52,13 @@ i kommandolinjen. Deretter kan du installere den anbefalte versjonen av
 [`.nvmrc`](https://github.com/kodeklubben/codeclub-viewer/blob/master/.nvmrc)
 ved å kjøre
 
-    nvm install 9.8.0
+    nvm install 10.16.0
 
 i kommandolinjen.
 
 _En annen måte_ er å installere **node** manuelt fra deres egen nettside. Gå
-til [nodejs.org](https://nodejs.org/download/release/v9.8.0) og last ned filen
-`node-v9.8.0.pkg`. Du installerer **node** ved å trykke på filen når den er
-ferdig nedlastet på din maskin.
+til [nodejs.org](hhttps://nodejs.org/en). Du installerer **node** ved å trykke
+på filen når den er ferdig nedlastet på din maskin.
 
 ### Installere yarn på Windows
 
