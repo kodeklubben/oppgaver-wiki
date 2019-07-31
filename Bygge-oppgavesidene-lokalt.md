@@ -33,7 +33,7 @@ ved å kjøre
 i kommandolinjen.
 
 _En annen måte_ er å installere **node** manuelt fra deres egen nettside. Gå
-til [nodejs.org](hhttps://nodejs.org/en). Du installerer **node** ved å trykke
+til [nodejs.org](https://nodejs.org/en). Du installerer **node** ved å trykke
 på filen når den er ferdig nedlastet på din maskin.
 
 ### Installere node på Mac eller Linux
@@ -53,7 +53,7 @@ ved å kjøre
 i kommandolinjen.
 
 _En annen måte_ er å installere **node** manuelt fra deres egen nettside. Gå
-til [nodejs.org](hhttps://nodejs.org/en). Du installerer **node** ved å trykke
+til [nodejs.org](https://nodejs.org/en). Du installerer **node** ved å trykke
 på filen når den er ferdig nedlastet på din maskin.
 
 ### Installere yarn på Windows
